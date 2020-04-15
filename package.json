@@ -1,0 +1,25 @@
+{
+  "name": "mine-block-craft-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fankouzu/MineBlockCraftContract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fankouzu/MineBlockCraftContract/issues"
+  },
+  "homepage": "https://github.com/Fankouzu/MineBlockCraftContract#readme",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts-ethereum-package": "^2.5.0",
+    "@openzeppelin/upgrades": "^2.8.0"
+  }
+}
